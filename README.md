@@ -27,7 +27,7 @@ By using the available information a table schemata for each of the six CSV file
 While importing each CSV files into the corresponding SQL tables created follow same order that the tables were created to avoid errors.
 
 For further reference the scripts to create schema was presented in repository in folder name EmployeeSQL sub-folder SQL_Scrips as table_schema.sql.
-
+[SQL_Scripts/queries.sql]()
 
 # 3. Data Analysis
 
