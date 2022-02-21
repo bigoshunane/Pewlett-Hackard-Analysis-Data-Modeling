@@ -72,7 +72,7 @@ The analysis performed are presented as follows:
 <img width="1045" alt="QUERY_8" src="https://user-images.githubusercontent.com/84547558/155031587-24d9b8aa-96e2-4cf6-8234-afb5163fef88.PNG">
 
 
-# Bonus
+# 4. Bonus
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 1. Import the SQL database into Pandas.
@@ -88,7 +88,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 
 
-# Epilogue
+# 5. Epilogue
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
 ![eplog](https://user-images.githubusercontent.com/84547558/155031664-ed6d8a62-fba9-4067-a320-7a51aecefb1e.jpg)
