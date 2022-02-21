@@ -18,8 +18,9 @@ To inspect and model the employee dataset a basic data modeling technique Entity
 
 The ERD diagram:
 
+![ERD](https://user-images.githubusercontent.com/84547558/155030195-5c6fad0f-3d42-4a26-afc5-476b56168119.JPG)
 
-![ERD](https://user-images.githubusercontent.com/84547558/155029105-f4883295-65a5-420e-9545-6f6c20c0ab5a.JPG)
+
 
 
 
