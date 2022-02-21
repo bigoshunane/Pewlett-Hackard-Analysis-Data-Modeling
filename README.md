@@ -4,7 +4,7 @@ The aim of this project is to perform Data Modeling/Engineering and Analysis usi
 
 1. To inspect the CSV files by sketching out their ERD tables via [http://www.quickdatabasediagrams.com]()
 
-2. To use postgresql to create table schemata and queries to design tables to hold dataset and do analysis
+2. To use postgresql to create table schemata and queries to design tables to hold dataset and do analysis.
 
 3. To do dataset testing and validation by developing python scripts connecting with SQL Alchemy. 
 
