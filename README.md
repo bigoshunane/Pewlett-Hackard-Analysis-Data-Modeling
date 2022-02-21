@@ -12,7 +12,7 @@ The aim of this project is to perform Data Modeling/Engineering and Analysis usi
 # 1. Data Modeling
 
 To inspect and model the employee dataset a basic data modeling technique Entity-Relationship Diagrams (ERD) was used. By using this technique six employee database entities were identified namely employees, departments, salaries, titles, department managers and department employees. The attribute or the data type of the entities were presented and ERD was drawn to visualize the relationships between entities (primary key or foreign keys in the database). To read the detailed description of the employee dataset refer to image depicted below and for further reference the script to run in [http://www.quickdatabasediagrams.com]()
- is presented in the repository in EmployeeSQL folder in Data_Modeling as ERD.TEXT. [https://github.com/bigoshunane/SQL_Challenge_HM7/blob/main/EmployeeSQL/Data_Modeling/ERD.TEXT]()
+ is presented in the repository in EmployeeSQL folder in Data_Modeling as ERD.TEXT. [Data_Modeling/ERD.TEXT]()
 
 The ERD diagram:
 
