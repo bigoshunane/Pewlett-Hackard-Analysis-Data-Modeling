@@ -2,7 +2,7 @@
 
 The aim of this project is to perform Data Modeling/Engineering and Analysis using postgresql and Data Testing and Validation via Python-Pandas library and SQL Alchemy given database of employees of the corporation called Pewlett Hackard from 1980s to 1990s in six CSV files, specifically;
 
-1. To inspect the CSV files by sketching out their ERD tables via [ http://www.quickdatabasediagrams.com ]
+1. To inspect the CSV files by sketching out their ERD tables via [ http://www.quickdatabasediagrams.com ] ()
 
 2. To use postgresql to create table schemata and queries to design tables to hold dataset and do analysis
 
@@ -11,7 +11,7 @@ The aim of this project is to perform Data Modeling/Engineering and Analysis usi
 
 # 1. Data Modeling
 
-To inspect and model the employee dataset a basic data modeling technique Entity-Relationship Diagrams (ERD) was used. By using this technique six employee database entities were identified namely employees, departments, salaries, titles, department managers and department employees. The attribute or the data type of the entities were presented and ERD was drawn to visualize the relationships between entities (primary key or foreign keys in the database). To read the detailed description of the employee database refer to image depicted below and for further reference the script to run in [ http://www.quickdatabasediagrams.com ]
+To inspect and model the employee dataset a basic data modeling technique Entity-Relationship Diagrams (ERD) was used. By using this technique six employee database entities were identified namely employees, departments, salaries, titles, department managers and department employees. The attribute or the data type of the entities were presented and ERD was drawn to visualize the relationships between entities (primary key or foreign keys in the database). To read the detailed description of the employee database refer to image depicted below and for further reference the script to run in [ http://www.quickdatabasediagrams.com ] ()
  is presented in the repository in Employee_DB folder in Data_Modeling as ERD.TEXT. 
 
 The ERD diagram:
