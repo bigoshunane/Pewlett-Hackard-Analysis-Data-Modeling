@@ -15,7 +15,6 @@ salaries
 titles
 
 Among others the two "main" tables are departments and employees. The other tables relate to these two tables based on keys. As such, departments has the dept_no
-
 primary key while employees holds the emp_no primary key and the other four tables have at least one of those two fields as foreign keys.
 
 Relationships:
