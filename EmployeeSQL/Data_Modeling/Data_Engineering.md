@@ -29,13 +29,13 @@ Therefore, a many-to-many relationship
 
 employees many-to-many to salaries: mirror of previous relationship. Because employees can have more than one title as they get promoted, they may have more than one salary level.
 
-One salary level can have many employees as multiple employees can make the same salary. Therefore, a many-to-many relationship
+One salary level can have many employees as multiple employees can make the same salary. Therefore, a many-to-many relationship.
 
-employees many-to-1 to dept_emp: a department can contain multiple employees
+employees many-to-1 to dept_emp: a department can contain multiple employees.
 
-employees many-to-1 to dept_manager: a manager can have many employees under his/her team
+employees many-to-1 to dept_manager: a manager can have many employees under his/her team.
 
-Data Types
+# Data Types:
 
 All *date columns defined to be DATE type
 
@@ -45,4 +45,4 @@ emp_no set to INTEGER
 
 dept_no set to CHAR(5) since dept_no values always set at 'dXYZ' values and does not deviate from length of 4
 
-gender set to CHAR(1) since value is either 'M' or 'F'
+sex set to CHAR(1) since value is either 'M' or 'F'
