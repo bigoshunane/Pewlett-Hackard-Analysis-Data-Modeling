@@ -6,7 +6,7 @@ The aim of this project is to perform Data Modeling/Engineering and Analysis usi
 
 2. To use postgresql to create table schemata and queries to design tables to hold dataset and do analysis.
 
-3. To do dataset testing and validation by developing python scripts connecting with SQL Alchemy. 
+3. (Bonus) To do dataset testing and validation by developing python scripts connecting with SQL Alchemy. 
 
 
 # 1. Data Modeling
