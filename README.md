@@ -1,6 +1,6 @@
 # SQL_Challenge_HM7
 
-The aim of this project is to perform Data Modeling/Engineering and Analysis using postgresql and Data Testing and Validation via Python-Pandas library and SQL Alchemy given database of employees of the corporation called Pewlett Hackard from 1980s to 1990s in six CSV files, specifically;
+The aim of this project is to perform Data Modeling/Engineering and Analysis using postgresql and (Bonus) Data Testing and Validation via Python-Pandas library and SQL Alchemy given database of employees of the corporation called Pewlett Hackard from 1980s to 1990s in six CSV files, specifically;
 
 1. To inspect the CSV files by sketching out their ERD tables via [http://www.quickdatabasediagrams.com]()
 
