@@ -1,5 +1,9 @@
-# SQL_Challenge_HM7
+# Pewlett Hackard Analysis
 
+## Background
+It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s.
+
+## Project objective
 The aim of this project is to perform Data Modeling/Engineering and Analysis using postgresql and (Bonus) Data Testing and Validation via Python-Pandas library and SQLAlchemy given database of employees of the corporation called Pewlett Hackard from 1980s to 1990s in six CSV files, specifically;
 
 1. To inspect the CSV files by sketching out their ERD tables via [http://www.quickdatabasediagrams.com]()
@@ -9,7 +13,7 @@ The aim of this project is to perform Data Modeling/Engineering and Analysis usi
 3. (Bonus) To do dataset testing and validation by developing python scripts connecting with SQL Alchemy. 
 
 
-# 1. Data Modeling
+### 1. Data Modeling
 
 To inspect and model the employee dataset a basic data modeling technique Entity-Relationship Diagrams (ERD) was used. By using this technique six employee database entities were identified namely employees, departments, salaries, titles, department managers and department employees. The attribute or the data type of the entities were presented and ERD was drawn to visualize the relationships between entities (primary key or foreign keys in the database). To read the detailed description of the employee dataset refer to image depicted below and for further reference the script to run in [http://www.quickdatabasediagrams.com]()
  is presented in the repository in EmployeeSQL folder in Data_Modeling as ERD.TEXT.
@@ -20,7 +24,7 @@ The ERD diagram:
 
 
 
-# 1.1. Data Engineering
+#### 1.1. Data Engineering
 
 By using the available information a table schemata for each of the six CSV files were created and the data types, primary keys, foreign keys, and constraints developed. The order of the table is based on the primary and foreign arrangements.
 
@@ -29,7 +33,7 @@ While importing each CSV files into the corresponding SQL tables created follow 
 For further reference the scripts to create schema was presented in repository in folder name EmployeeSQL sub-folder SQL_Scrips as table_schema.sql.
 
 
-# 2. Data Analysis
+### 2. Data Analysis
 
 After having complete database Postgresql analysiss was perfomed with developed queries depending on questions presented and you can find query scripts developed in the repository in folder name EmployeeSQL in sub-folder SQL_Scripts as queries.sql. 
 
@@ -72,7 +76,7 @@ The analysis performed are presented as follows:
 <img width="1045" alt="QUERY_8" src="https://user-images.githubusercontent.com/84547558/155031587-24d9b8aa-96e2-4cf6-8234-afb5163fef88.PNG">
 
 
-# 3. Bonus
+## 3. Bonus
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 1. Import the SQL database into Pandas.
@@ -88,7 +92,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 
 
-# 3.1. Epilogue
+### 3.1. Epilogue
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
 ![eplog](https://user-images.githubusercontent.com/84547558/155031664-ed6d8a62-fba9-4067-a320-7a51aecefb1e.jpg)
