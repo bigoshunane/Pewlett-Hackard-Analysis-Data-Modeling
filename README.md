@@ -79,13 +79,13 @@ The analysis performed are presented as follows:
 ## 3. Bonus
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
-1. Import the SQL database into Pandas.
+a. Import the SQL database into Pandas.
 2. Create a histogram to visualize the most common salary ranges for employees.
 
 ![fig1](https://user-images.githubusercontent.com/84547558/155031615-a78f5633-b464-482c-83dd-b19e4b367e3c.png)
 
 
-3. Create a bar chart of average salary by title.
+b. Create a bar chart of average salary by title.
 
 
 ![fig2](https://user-images.githubusercontent.com/84547558/155031627-a0a6015d-a628-4ba2-92b4-7e3b38ba2b9e.png)
