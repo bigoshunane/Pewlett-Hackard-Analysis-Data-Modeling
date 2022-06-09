@@ -39,39 +39,39 @@ After having complete database Postgresql analysiss was perfomed with developed 
 
 The analysis performed are presented as follows:
 
-1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+2.1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 <img width="1034" alt="QUERY_1" src="https://user-images.githubusercontent.com/84547558/155031090-357a9bf4-da64-4b9d-abf0-ad53f2ee586f.PNG">
 
-2. List first name, last name, and hire date for employees who were hired in 1986.
+2.2. List first name, last name, and hire date for employees who were hired in 1986.
 
 <img width="1029" alt="QUERY_2" src="https://user-images.githubusercontent.com/84547558/155031483-894c92a0-0aa4-43c1-9869-f70b85bab172.PNG">
 
-3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+2.3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
 <img width="1041" alt="QUERY_3" src="https://user-images.githubusercontent.com/84547558/155031497-e456255f-d043-4cd8-a9e0-d5bc792a3372.PNG">
 
 
-4. List the department of each employee with the following information: employee number, last name, first name, and department name.
+2.4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
 <img width="1045" alt="QUERY_4" src="https://user-images.githubusercontent.com/84547558/155031531-5522008c-2de8-4be9-9ebb-75be5ca10c45.PNG">
 
 
-5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+2.5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
 <img width="1039" alt="QUERY_5" src="https://user-images.githubusercontent.com/84547558/155031548-5d2135c6-73fa-4ac3-adab-b46fc18540ce.PNG">
 
-6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
+2.6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
 <img width="1036" alt="QUERY_6" src="https://user-images.githubusercontent.com/84547558/155031567-2dfd70b9-6eeb-48b4-af44-7c5927cafb2f.PNG">
 
 
-7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+2.7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 <img width="1036" alt="QUERY_7" src="https://user-images.githubusercontent.com/84547558/155031580-8cd56458-a2e4-4dba-9b07-46da7d381f30.PNG">
 
 
-8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+2.8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 <img width="1045" alt="QUERY_8" src="https://user-images.githubusercontent.com/84547558/155031587-24d9b8aa-96e2-4cf6-8234-afb5163fef88.PNG">
 
