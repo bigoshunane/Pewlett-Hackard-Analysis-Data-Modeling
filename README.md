@@ -35,7 +35,7 @@ For further reference the scripts to create schema was presented in repository i
 
 ### 2. Data Analysis
 
-After having complete database Postgresql analysiss was perfomed with developed queries depending on questions presented and you can find query scripts developed in the repository in folder name EmployeeSQL in sub-folder SQL_Scripts as queries.sql. 
+After having complete database Postgresql analysis was perfomed with developed queries depending on questions presented and you can find query scripts developed in the repository in folder name EmployeeSQL in sub-folder SQL_Scripts as queries.sql. 
 
 The analysis performed are presented as follows:
 
