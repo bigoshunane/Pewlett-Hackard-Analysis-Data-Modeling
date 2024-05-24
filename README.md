@@ -6,7 +6,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 ## Project objective
 The aim of this project is to perform Data Modeling/Engineering and Analysis using postgresql and (Bonus) Data Testing and Validation via Python-Pandas library and SQLAlchemy given database of employees of the corporation called Pewlett Hackard from 1980s to 1990s in six CSV files, specifically;
 
-1. To inspect the CSV files by sketching out their ERD tables via [http://www.quickdatabasediagrams.com]()
+1. To inspect the CSV files by sketching out their ERD tables via [link](http://www.quickdatabasediagrams.com)
 
 2. To use postgresql to create table schemata and queries to design tables to hold dataset and do analysis.
 
